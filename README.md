@@ -1,4 +1,4 @@
-The original creator of this app is someone on Fiverr. I was merely tasked with fixing it and making additions as it would crash when trying to duplicate or remove cells, and Use Random Added wasn't working properly.
+The original creator of this app is louisschul on Fiverr. I was merely tasked with fixing it and making additions as it would crash when trying to duplicate or remove cells, and Use Random Added wasn't working properly.
 
 Also fixed a bug when using Group Times: the program would create an ever-stacking amount of popup windows, for each of the grouped values. These grouped values would persist through deletion for the purposes of creating the popups.
 
